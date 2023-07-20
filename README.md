@@ -1,1 +1,1 @@
-# dockerized-app-cpp
+# dockerized-apps-in-cpp
